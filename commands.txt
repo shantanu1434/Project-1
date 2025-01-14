@@ -1,0 +1,4 @@
+git clone "link" #Do it for the first time for a specific repo
+git add .
+git commit -m "message"
+git push
